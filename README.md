@@ -12,7 +12,7 @@
   [REFERÊNCIA PARA MAIS ÍCONES](https://devicon.dev/)
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Michi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+  <img align="center" alt="Michi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Michi-Python" height="30" width="40" 
   <img align="center" alt= "Michi-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
