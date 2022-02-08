@@ -1,6 +1,6 @@
 ### Olá, Michi aqui 👋
 
-- 🔭 procurando...
+- 🔭 Cyberpolos - estágio
 - 🌱 Estudando JavaScript
 
 <div align="center">
