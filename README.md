@@ -1,4 +1,6 @@
-### Bom dia! Meu nome é Gustavo, mas pode me chamar de Michi 👋
+### Bom dia!
+
+###      Meu nome é Gustavo, mas pode me chamar de Michi 👋
 
 - 🔭 Cyberpolos - MEI
 - 🌱 Desenvolvendo em flutter
