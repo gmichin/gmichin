@@ -1,6 +1,6 @@
-### Olá, Michi aqui 👋
+### Bom dia, sou Gustavo 👋
 
-- 🔭 Cyberpolos - estágio
+- 🔭 Cyberpolos - MEI
 - 🌱 Estudando JavaScript
 
 <div align="center">
