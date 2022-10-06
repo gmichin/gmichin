@@ -1,7 +1,7 @@
 ### Bom dia, sou Gustavo 👋
 
 - 🔭 Cyberpolos - MEI
-- 🌱 Estudando JavaScript
+- 🌱 Desenvolvendo em flutter
 
 <div align="center">
   <a href="https://github.com/gmichin">
