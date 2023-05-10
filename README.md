@@ -3,7 +3,7 @@
 #### Meu nome é Gustavo, mas pode me chamar de Michi 👋
 
 - 🔭 Cyberpolos - MEI
-- 🌱 Desenvolvendo em flutter
+- 🌱 Desenvolvendo front-end
 
 <div align="center">
   <a href="https://github.com/gmichin">
