@@ -3,12 +3,12 @@
 #### Meu nome é Gustavo, mas pode me chamar de Michi 👋
 
 - 🔭 2 anos de experiência na Cyberpolos como MEI
-- 🌱 Desenvolvendo front-end, mas semore aprendendo sobre tudo!
+- 🌱 Desenvolvendo front-end, mas sempre aprendendo sobre tudo!
 
 <div align="center">
   <a href="https://github.com/gmichin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmichin&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmichin&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmichin&layout=compact&langs_count=8&theme=highcontrast"/>
 </div>
   
   [REFERÊNCIA PARA MAIS ÍCONES](https://devicon.dev/)
