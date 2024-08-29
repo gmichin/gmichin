@@ -2,8 +2,8 @@
 
 #### Meu nome é Gustavo, mas pode me chamar de Michi 👋
 
-- 🔭 Cyberpolos - MEI
-- 🌱 Desenvolvendo front-end
+- 🔭 2 anos de experiência na Cyberpolos como MEI
+- 🌱 Desenvolvendo front-end, mas semore aprendendo sobre tudo!
 
 <div align="center">
   <a href="https://github.com/gmichin">
