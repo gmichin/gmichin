@@ -3,15 +3,21 @@
 - 🔭 2 anos de experiência na Cyberpolos como MEI (out 2021 - ago 2024) -> contribuições privadas em projetos internos.
 - 🌱 Me desenvolvendo como programador Front-End.
 
-### Projeto de maior relevância
-- HEIMDALL
-
 <div align="center">
   <a href="https://github.com/gmichin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmichin&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmichin&layout=compact&langs_count=8&theme=highcontrast"/>
 </div>
-  
+</br>
+
+- Projeto de maior relevância
+
+<div align="center">
+  <a href="https://github.com/gmichin/HEIMDALL">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmichin&repo=HEIMDALL&theme=highcontrast" />
+</div>
+
+
   [REFERÊNCIA PARA MAIS ÍCONES](https://devicon.dev/)
   
   <div style="display: inline_block"><br>
