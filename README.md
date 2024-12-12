@@ -1,6 +1,6 @@
 # Bom dia! Meu nome é Gustavo 👋
 
-- 🔭 2 anos de experiência na Cyberpolos como MEI (out 2021 - ago 2024) -> contribuições privadas em projetos internos.
+- 🔭 2 anos de experiência na Cyberpolos como MEI (out 2021 - ago 2024) -> as contribuições dessa empresa estão privadas em projetos internos.
 - 🌱 Me desenvolvendo como programador Front-End.
 
 <div align="center">
