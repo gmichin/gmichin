@@ -1,7 +1,14 @@
 # Bom dia! Meu nome é Gustavo 👋
 
-- 🔭 2 anos de experiência na Cyberpolos como Microempreendedor individual (out 2021 - ago 2024) -> as contribuições dessa empresa estão privadas em projetos internos.
-- 🌱 Me desenvolvendo como programador Front-End.
+## 🚀 Sobre Mim
+
+- 💻 **Experiência Profissional:**
+  - **Cyberpolos** (Out 2021 - Ago 2024)  
+    `Microempreendedor Individual` | Projetos internos (contribuições privadas)  
+      
+  - **Analista de Dados** (Atual)  
+    `CLT` | Projetos no repositório 
+
 
 <div align="center">
   <a href="https://github.com/gmichin">
@@ -43,8 +50,7 @@
           
 </div>
  
-    
-##
+## **Meus links:**  
 <div> 
   <a href="https://www.instagram.com/gmichin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> 
   <a href = "mailto:gmassamichi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
