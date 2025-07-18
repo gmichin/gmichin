@@ -10,13 +10,24 @@
 </div>
 </br>
 
-- Projeto de maior relevância (sendo esse o frontend do projeto, no README, irá ter um link para o backend):
+- Projetos de maiores relevâncias:
 
 <div align="center">
-  <a href="https://github.com/gmichin/HEIMDALL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmichin&repo=HEIMDALL&theme=dark" />
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/gmichin/HEIMDALL">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmichin&repo=HEIMDALL&theme=dark" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/gmichin/Relatorio_analitico_vendas">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmichin&repo=Relatorio_analitico_vendas&theme=dark" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-</br>
 
   [REFERÊNCIA PARA MAIS ÍCONES](https://devicon.dev/)
   
