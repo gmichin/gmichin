@@ -6,7 +6,7 @@
   - **Cyberpolos** (Out 2021 - Ago 2024)  
     `Microempreendedor Individual` | Projetos internos (contribuições privadas)  
       
-  - **Analista de Dados** (Atual)  
+  - **Analista de Dados** (Jun 2025 - Atual)  
     `CLT` | Projetos no repositório 
 
 
