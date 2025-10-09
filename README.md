@@ -29,7 +29,7 @@
       </td>
       <td>
         <a href="https://github.com/gmichin/Relatorio_analitico_vendas">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmichin&repo=Relatorio_analitico_vendas&theme=dark" />
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmichin&repo=Ranking_de_vendas&theme=dark" />
         </a>
       </td>
     </tr>
