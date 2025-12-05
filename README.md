@@ -9,11 +9,10 @@
   - **Analista de Dados** (Mai 2025 - Atual)  
     `CLT` | Projetos no repositório 
 
-
 <div align="center">
   <a href="https://github.com/gmichin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmichin&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmichin&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gmichin&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gmichin&layout=compact&langs_count=8&theme=dark"/>
 </div>
 </br>
 
@@ -24,12 +23,12 @@
     <tr>
       <td>
         <a href="https://github.com/gmichin/HEIMDALL">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmichin&repo=HEIMDALL&theme=dark" />
+          <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gmichin&repo=HEIMDALL&theme=dark" />
         </a>
       </td>
       <td>
         <a href="https://github.com/gmichin/Relatorio_analitico_vendas">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmichin&repo=Ranking_de_vendas&theme=dark" />
+          <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gmichin&repo=Ranking_de_vendas&theme=dark" />
         </a>
       </td>
     </tr>
