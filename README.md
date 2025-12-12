@@ -3,10 +3,10 @@
 ## 🚀 Sobre Mim
 
 - 💻 **Experiência Profissional:**
-  - **Cyberpolos** (Out 2021 - Ago 2024)  
+  - **Desenvolvedor Web - CYBERPOLOS** (Out 2021 - Ago 2024)  
     `Microempreendedor Individual` | Projetos internos (contribuições privadas)  
       
-  - **Analista de Dados** (Mai 2025 - Atual)  
+  - **Analista de Dados - VOG COMERCIO DE ALIMENTOS LTDA** (Mai 2025 - Atual)  
     `CLT` | Projetos no repositório 
 
 <div align="center">
