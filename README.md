@@ -7,7 +7,7 @@
     `Microempreendedor Individual` | Projetos internos (contribuições privadas)  
       
   - **Analista de Dados - VOG COMERCIO DE ALIMENTOS LTDA** (Mai 2025 - Atual)  
-    `CLT` | Projetos no repositório 
+    `CLT` | Projetos no repositório do github
 
 <div align="center">
   <a href="https://github.com/gmichin">
