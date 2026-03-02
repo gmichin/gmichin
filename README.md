@@ -1,6 +1,6 @@
 # Bom dia! Meu nome é Gustavo 👋
 
-## 🚀 Sobre Mim
+## 🚀 Sobre
 
 - 💻 **Experiência Profissional:**
   - **Desenvolvedor Web - CYBERPOLOS** (Out 2021 - Ago 2024)  
